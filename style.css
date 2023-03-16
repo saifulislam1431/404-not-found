@@ -69,3 +69,22 @@
     font-weight: 700;
     color: #BDBDBD;
 }
+
+@media screen and (max-width:600px) {
+    #banner{
+        flex-direction: column;
+        gap: 100px;
+        margin-top: 50px;
+    }
+    .hero-img{
+        width: 280px;
+        height: 220px;
+        padding-left: 30px;
+    }
+    #banner-description{
+        margin-left: 10px;
+    }
+    #footer{
+        margin-top: 100px;
+    }
+}
