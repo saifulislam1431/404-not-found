@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@400;600;700&family=Space+Mono:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@400;600;700&family=Montserrat:wght@400;500;600&family=Space+Mono:wght@400;700&display=swap');
 
 *{
     font-family: 'Space Mono', monospace;
@@ -18,9 +18,9 @@
 /* Banner section */
 #banner{
     display: flex;
-align-items: center;
-justify-content: center;
-gap: 100px;
+    align-items: center;
+    justify-content: center;
+    gap: 100px;
     margin-top: 200px;
 }
 .hero-img{
@@ -51,4 +51,20 @@ gap: 100px;
     background-color: #333333;
     border: none;
     outline: none;
+}
+
+#footer{
+    text-align: center;
+    margin-top: 150px;
+}
+.footer-details{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    color: #BDBDBD;
+    line-height: 17px;
+}
+
+.link{
+    font-weight: 700;
+    color: #BDBDBD;
 }
