@@ -36,7 +36,7 @@
 
 ## Overview
 
-![screenshot]()
+![screenshot](https://api.pikwy.com/web/64134ae9d8f9225d127615aa.jpg)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
