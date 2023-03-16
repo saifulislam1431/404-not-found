@@ -15,3 +15,40 @@
     padding-top: 40px;
     padding-left: 77px;
 }
+/* Banner section */
+#banner{
+    display: flex;
+align-items: center;
+justify-content: center;
+gap: 100px;
+    margin-top: 200px;
+}
+.hero-img{
+    width: 540px;
+    height: 415px;
+    padding-left: 77px;
+
+}
+
+.title{
+   font-size: 40px;
+   font-weight: 700;
+   margin-bottom: 30px;
+}
+
+.description{
+    margin-right: 100px;
+    margin-bottom: 40px;
+    line-height: 27px;
+}
+
+#back-btn{
+    padding: 15px 25px;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 16px;
+    background-color: #333333;
+    border: none;
+    outline: none;
+}
